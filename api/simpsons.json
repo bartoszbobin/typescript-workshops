@@ -1,0 +1,49 @@
+[
+    {
+        "id": 3,
+        "name": "Bart",
+        "birthDate": "01-04-1980",
+        "favouriteFruits": [
+            "apple",
+            "orange"
+        ],
+        "friends": [
+            {
+                "id": 6,
+                "name": "Milhouse Van Houten"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Lisa",
+        "birthDate": "09-05-1982",
+        "friends": [
+            {
+                "id": 7,
+                "name": "Todd Flanders"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Homer",
+        "birthDate": "12-05-1954",
+        "favouriteFruits": [
+            "cherry"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Marge",
+        "birthDate": "19-03-1954"
+    },
+    {
+        "id": 5,
+        "name": "Maggie",
+        "birthDate": "12-05-1990",
+        "favouriteFruits": [
+            "peach"
+        ]
+    }
+]
