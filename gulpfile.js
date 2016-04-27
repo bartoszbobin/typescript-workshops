@@ -1,7 +1,6 @@
 'use strict';
 
 var gulp = require('gulp');
-var wrench = require('wrench');
 var del = require('del');
 var path = require('path');
 var install = require('gulp-install');
